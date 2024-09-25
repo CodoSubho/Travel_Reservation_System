@@ -4,7 +4,7 @@ Welcome to the Travel Reservation System repository! This project is designed to
 ## Platform
 Codesandbox
 
-## Deployement
+## Deployment
 check out the site here: https://33wdvj.csb.app/about
 
 ## Features
@@ -13,19 +13,6 @@ check out the site here: https://33wdvj.csb.app/about
 - Real-Time Availability: Ensures that bookings are updated in real-time, preventing double booking.
 - Trvael cost estimastion: Suggests travel cost from diffrent parts of the world to the destinations.
 - Admin Dashboard: Admins can manage listings, view user activity, and monitor transactions.
-
-## Folder Structure
-
-travel-reservation-system/
- ├ ──  client/                  # Frontend code
- │    ├── public/              # Public assets (HTML, CSS, Images)
- │    └── src/                 # React components, hooks, and routes
- ├ ──  server/                 
- │    ├── models/              
- │    ├── routes/              # API routes for managing bookings
- │    └── config/              # Configuration files (DB, authentication, etc.)
- ├ ── README.md                # Project documentation
- └ ── package.json             # Project dependencies and scripts
 
 ## Contributing
 We welcome contributions! Please follow the steps below to contribute:
