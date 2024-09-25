@@ -5,7 +5,7 @@ Welcome to the Travel Reservation System repository! This project is designed to
 Codesandbox
 
 ## Deployment
-check out the site here: https://33wdvj.csb.app/about
+check out the site here: travel-reservation-system-91d6u7dcc-codosubhos-projects.vercel.app
 
 ## Features
 - User Authentication: Secure sign-up, login, and logout functionality for users.
