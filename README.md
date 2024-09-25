@@ -1,4 +1,4 @@
-# TravelReservationSystem
+# Travel Reservation System
 Welcome to the Travel Reservation System repository! This project is designed to provide an easy-to-use platform for booking and managing travel reservations, including flights, hotels, and rental cars. Built with modern web technologies, the system offers a user-friendly interface.
 
 ## Platform
@@ -17,15 +17,15 @@ check out the site here: https://33wdvj.csb.app/about
 ## Folder Structure
 
 travel-reservation-system/
-├──  client/                  # Frontend code
-│    ├── public/              # Public assets (HTML, CSS, Images)
-│    └── src/                 # React components, hooks, and routes
-├──  server/                 
-│    ├── models/              
-│    ├── routes/              # API routes for managing bookings
-│    └── config/              # Configuration files (DB, authentication, etc.)
-├── README.md                # Project documentation
-└── package.json             # Project dependencies and scripts
+ ├ ──  client/                  # Frontend code
+ │    ├── public/              # Public assets (HTML, CSS, Images)
+ │    └── src/                 # React components, hooks, and routes
+ ├ ──  server/                 
+ │    ├── models/              
+ │    ├── routes/              # API routes for managing bookings
+ │    └── config/              # Configuration files (DB, authentication, etc.)
+ ├ ── README.md                # Project documentation
+ └ ── package.json             # Project dependencies and scripts
 
 ## Contributing
 We welcome contributions! Please follow the steps below to contribute:
